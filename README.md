@@ -17,7 +17,7 @@ I am a highly skilled professional with extensive experience in Machine Learning
 - 🤖 **Generative AI Chatbot Development**
 - 🔗 **LangChain Integration**
 - 🌐 **OpenAI Tech Integration**
-- 🛠️ **GPT-3 Customization**
+- 🛠️ **GPT-4o Customization**
 - 🧩 **NLP Solutions**
 - ✨ **Prompt Engineering**
 - 🐍 **Python Programming**
@@ -49,8 +49,8 @@ I am a highly skilled professional with extensive experience in Machine Learning
 
 - **Languages:** Python 🐍
 - **Frameworks:** LangChain 🔗, FastAPI ⚡
-- **AI/ML:** OpenAI GPT-3 🤖, NLP 🧩, Deep Learning 🧠
-- **Cloud Services:** AWS ☁️
+- **AI/ML:** OpenAI GPT-4o 🤖, NLP 🧩, Deep Learning 🧠
+- **Cloud Services:** AWS ☁️, Microsoft Azure
 - **Tools:** Docker 🐳, GitHub 🗂️, CI/CD Pipelines 🔄
 
 ---
