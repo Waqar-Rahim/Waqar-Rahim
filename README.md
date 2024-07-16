@@ -1,6 +1,6 @@
 # Waqar Rahim
 
-## 🧠 Machine Learning, Deep Learning, Data Science, and Python Expert
+## 🧠 Machine Learning, Deep Learning, Data Science, and Python.
 
 ### Specializing in Generative AI Chatbot Development, LangChain, and OpenAI Tech Integration
 
@@ -36,10 +36,6 @@ I am a highly skilled professional with extensive experience in Machine Learning
 - 🛠️ Developed and deployed Machine Learning, Deep Learning, and Data Science projects.
 - 🤖 Specialized in Python and AI chatbot development using LangChain and OpenAI technologies.
 
-#### Fiverr Gig
-- **Fiverr Username:** creative_ctlyst
-- **Gig Title:** "I will do AI, ML, DL, chatbot, NLP, OpenCV, object detection, and Python projects"
-
 ---
 
 ### 🎯 Professional Goals
@@ -61,5 +57,5 @@ I am a highly skilled professional with extensive experience in Machine Learning
 
 ### 📫 Contact Information
 
-- **Email:** [waqar67461@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/waqar-rahim-4b95701b7]
+- **Email:** waqar67461@gmail.com
+- **LinkedIn:**  www.linkedin.com/in/waqar-rahim-4b95701b7 
