@@ -4,11 +4,13 @@
 I am a dedicated AI Engineer with a focus on Generative AI, AI chatbots, and machine learning. With a strong background in developing custom AI solutions, I specialize in leveraging technologies like OpenAI, LangChain, and FastAPI to create advanced AI-driven applications.
 
 ### 🔧 Skills
-- **Python**: 85%
-- **Machine Learning**: 80%
-- **Generative AI**: 80%
-- **AI Chatbots**: 80%
-- **Data Visualization**: 80%
+- **Python**
+- **Machine Learning**
+- **Generative AI**
+- **AI Chatbots**
+- **Data Visualization**
+- **LangChain**
+- **FastAPI**
 
 ### 💼 Experience
 - **Job Role**: AI Engineer
