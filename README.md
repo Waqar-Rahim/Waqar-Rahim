@@ -52,9 +52,3 @@ I am a highly skilled professional with extensive experience in Machine Learning
 - **Cloud Services:** AWS ☁️, Microsoft Azure
 - **Tools:** Docker 🐳, GitHub 🗂️, CI/CD Pipelines 🔄
 
----
-
-### 📫 Contact Information
-
-- **Email:** waqar67461@gmail.com
-- **LinkedIn:**  www.linkedin.com/in/waqar-rahim-4b95701b7 
